@@ -2,4 +2,13 @@
   display: grid;
   grid-template-columns: 0.4fr 0.6fr;
   grid-template-rows: 1fr;
+
+  height: 100vh;
+}
+
+#title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
