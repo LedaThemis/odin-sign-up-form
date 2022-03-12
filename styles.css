@@ -20,3 +20,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#logo {
+  display: flex;
+  gap: 5px;
+  margin: 200px;
+}
