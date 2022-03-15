@@ -37,6 +37,13 @@ body {
   margin: 200px;
 }
 
+#photo-copyright {
+  color: rgb(206, 206, 206);
+}
+#photo-copyright a {
+  color: rgb(206, 206, 206);
+}
+
 #sign-up-form {
   display: flex;
   flex-direction: column;
