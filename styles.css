@@ -76,3 +76,8 @@ button {
 #already-have-an-account {
   margin-left: 50px;
 }
+
+#already-have-an-account > a {
+  text-decoration: none;
+  color: #636f72;
+}
