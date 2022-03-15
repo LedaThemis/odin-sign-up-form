@@ -29,7 +29,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 10px 0;
-  gap: 5px;
+  gap: 15px;
 
   background-color: #00000050;
   width: 100%;
@@ -44,6 +44,10 @@ body {
   text-transform: uppercase;
 
   letter-spacing: 0.3ch;
+}
+
+#logo > img {
+  max-width: 100px;
 }
 
 #photo-copyright {
