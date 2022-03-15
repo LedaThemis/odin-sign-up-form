@@ -37,6 +37,15 @@ body {
   margin: 200px;
 }
 
+#logo > h1 {
+  font-size: 5rem;
+  font-family: "Smooch Sans", sans-serif;
+
+  text-transform: uppercase;
+
+  letter-spacing: 0.3ch;
+}
+
 #photo-copyright {
   color: rgb(206, 206, 206);
 }
