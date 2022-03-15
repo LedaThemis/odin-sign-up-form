@@ -78,6 +78,10 @@ button {
 
   color: white;
   background-color: #636f72;
+
+  font-family: Roboto, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
 }
 
 #already-have-an-account {
