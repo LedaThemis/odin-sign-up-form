@@ -93,6 +93,8 @@ button {
   font-family: Roboto, sans-serif;
   font-size: 0.9rem;
   font-weight: 500;
+
+  cursor: pointer;
 }
 
 #already-have-an-account {
