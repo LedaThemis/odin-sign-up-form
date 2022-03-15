@@ -66,10 +66,17 @@ body {
   grid-template-rows: repeat(3, 1fr);
   gap: 20px 60px;
 }
+
 .input {
   display: flex;
   flex-direction: column;
 }
+
+.input > label {
+  font-size: 0.9rem;
+  letter-spacing: 0.3ch;
+}
+
 .inputs {
   display: flex;
   flex-direction: column;
