@@ -56,6 +56,9 @@ body {
   flex-direction: column;
 }
 .inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
   background-color: white;
   padding: 30px 50px;
 
